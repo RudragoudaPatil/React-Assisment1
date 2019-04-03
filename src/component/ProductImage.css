@@ -1,0 +1,14 @@
+.img{
+    width: 350px;
+    height: 50%;
+}
+.card{
+    margin-left: 350px;
+}
+.card-title{
+   color: red;
+
+}
+.card-text{
+    color: blue
+}
